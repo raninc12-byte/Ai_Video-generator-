@@ -1,0 +1,57 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# Generated videos and outputs
+outputs/
+*.mp4
+*.avi
+*.mov
+
+# Model cache
+models/
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/settings.json
+.DS_Store
+
+# IDE
+.idea/
+.vscode
+*.swp
+*.swo
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Credentials files
+credentials.json
+token.json
+
+# Temporary files
+*.tmp
+temp/

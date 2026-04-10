@@ -1,0 +1,15 @@
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+pyttsx3>=2.90
+opencv-python>=4.8.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.21.0
+transformers>=4.30.0
+safetensors>=0.3.1
+rife-ncnn-vulkan>=1.56.0

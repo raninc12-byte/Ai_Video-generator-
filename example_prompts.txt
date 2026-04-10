@@ -1,0 +1,24 @@
+# Example Video Prompts
+# One prompt per line - use with: python src/workflow.py batch example_prompts.txt
+
+A futuristic city with neon lights and flying cars at night, cinematic
+A serene forest waterfall with misty air and sunlight filtering through trees
+A busy cyberpunk street market with holographic signs and crowd
+A peaceful zen garden with stone pathway and koi pond
+A dramatic mountain landscape with thunderstorm in the distance
+A underwater coral reef with colorful fish swimming
+A sunset beach with palm trees and waves crashing
+A magical library with floating books and ancient artifacts
+A space station interior with stars visible through windows
+A cozy coffee shop with warm lighting and people reading
+A misty Japanese temple in autumn with falling leaves
+A bustling night market with food stalls and lanterns
+A pristine arctic landscape with aurora borealis
+A dense jungle canopy with wildlife and exotic birds
+A sleek modern office with panoramic city view
+A rural village in countryside with blooming flowers
+A crystal cave with glowing minerals and underground lake
+A busy train station at sunset with golden light
+A enchanted forest with magical creatures and glowing flora
+A minimalist zen room with natural light and plants
+HELLOO! From devs! lol!
